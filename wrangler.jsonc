@@ -1,5 +1,5 @@
 {
-  "name": "proxy-worker",
+  "name": "better-gov-mailer-proxy",
   "main": "dist/worker.js",
   "compatibility_date": "2025-09-22"
 }
