@@ -1,6 +1,5 @@
 {
   "name": "proxy-worker",
   "main": "dist/worker.js",
-  "compatability_date": "2025-09-25",
-  "type": "javaScript"
+  "compatibility_date": "2025-09-22"
 }
